@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.AssemblyInfo.cs
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\test\remember_test\remember_test\bin\Debug\net8.0\remember_test.exe
+C:\Users\user\Desktop\test\remember_test\remember_test\bin\Debug\net8.0\remember_test.deps.json
+C:\Users\user\Desktop\test\remember_test\remember_test\bin\Debug\net8.0\remember_test.runtimeconfig.json
+C:\Users\user\Desktop\test\remember_test\remember_test\bin\Debug\net8.0\remember_test.dll
+C:\Users\user\Desktop\test\remember_test\remember_test\bin\Debug\net8.0\remember_test.pdb
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.dll
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\refint\remember_test.dll
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.pdb
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\remember_test.genruntimeconfig.cache
+C:\Users\user\Desktop\test\remember_test\remember_test\obj\Debug\net8.0\ref\remember_test.dll
